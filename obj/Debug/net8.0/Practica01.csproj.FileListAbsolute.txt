@@ -1,0 +1,14 @@
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\bin\Debug\net8.0\Practica01.exe
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\bin\Debug\net8.0\Practica01.deps.json
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\bin\Debug\net8.0\Practica01.runtimeconfig.json
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\bin\Debug\net8.0\Practica01.dll
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\bin\Debug\net8.0\Practica01.pdb
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.AssemblyInfoInputs.cache
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.AssemblyInfo.cs
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.csproj.CoreCompileInputs.cache
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.dll
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\refint\Practica01.dll
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.pdb
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.genruntimeconfig.cache
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\ref\Practica01.dll
