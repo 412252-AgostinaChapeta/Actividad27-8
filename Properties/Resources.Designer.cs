@@ -61,7 +61,7 @@ namespace Practica01.Properties {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a .
+        ///   Busca una cadena traducida similar a Data Source=AGOS;Initial Catalog=facturacion;Integrated Security=True;.
         /// </summary>
         internal static string conexion {
             get {

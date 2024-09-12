@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|c:\\users\\agosc\\onedrive\\escritorio\\2docuatri\\actividadesentregables\\practica01\\data\\irepofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|solutionrelative:data\\irepofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|c:\\users\\agosc\\onedrive\\escritorio\\2docuatri\\actividadesentregables\\practica01\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|solutionrelative:data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|c:\\users\\agosc\\onedrive\\escritorio\\2docuatri\\actividadesentregables\\practica01\\data\\repofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|solutionrelative:data\\repofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|c:\\users\\agosc\\onedrive\\escritorio\\2docuatri\\actividadesentregables\\practica01\\domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|solutionrelative:domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|c:\\users\\agosc\\onedrive\\escritorio\\2docuatri\\actividadesentregables\\practica01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|c:\\users\\agosc\\onedrive\\escritorio\\2docuatri\\actividadesentregables\\practica01\\services\\facturamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|solutionrelative:services\\facturamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|c:\\users\\agosc\\onedrive\\escritorio\\2docuatri\\actividadesentregables\\practica01\\practica01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|solutionrelative:practica01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|c:\\users\\agosc\\onedrive\\escritorio\\2docuatri\\actividadesentregables\\practica01\\domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF076AE-FF74-425C-ABB5-F0219B970501}|Practica01.csproj|solutionrelative:domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Properties\\Resources.resx*",
+              "RelativeToolTip": "Properties\\Resources.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-08T19:50:15.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepoFactura.cs",
+              "DocumentMoniker": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Data\\IRepoFactura.cs",
+              "RelativeDocumentMoniker": "Data\\IRepoFactura.cs",
+              "ToolTip": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Data\\IRepoFactura.cs",
+              "RelativeToolTip": "Data\\IRepoFactura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:36:39.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacturaManager.cs",
+              "DocumentMoniker": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Services\\FacturaManager.cs",
+              "RelativeDocumentMoniker": "Services\\FacturaManager.cs",
+              "ToolTip": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Services\\FacturaManager.cs",
+              "RelativeToolTip": "Services\\FacturaManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:30:52.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Domain\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Domain\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Domain\\DetalleFactura.cs",
+              "RelativeToolTip": "Domain\\DetalleFactura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:21:56.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepoFactura.cs",
+              "DocumentMoniker": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Data\\RepoFactura.cs",
+              "RelativeDocumentMoniker": "Data\\RepoFactura.cs",
+              "ToolTip": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Data\\RepoFactura.cs",
+              "RelativeToolTip": "Data\\RepoFactura.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAqwDQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:24:36.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Data\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Data\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Data\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Data\\Utils\\DataHelper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:24:35.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:43:06.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Practica01.csproj",
+              "DocumentMoniker": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Practica01.csproj",
+              "RelativeDocumentMoniker": "Practica01.csproj",
+              "ToolTip": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Practica01.csproj",
+              "RelativeToolTip": "Practica01.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T19:29:53.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Domain\\Factura.cs",
+              "RelativeDocumentMoniker": "Domain\\Factura.cs",
+              "ToolTip": "C:\\Users\\agosc\\OneDrive\\Escritorio\\2doCuatri\\ActividadesEntregables\\Practica01\\Domain\\Factura.cs",
+              "RelativeToolTip": "Domain\\Factura.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:12:10.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

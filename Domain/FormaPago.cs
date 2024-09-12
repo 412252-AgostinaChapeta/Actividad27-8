@@ -8,8 +8,8 @@ namespace Practica01.Domain
 {
     public class FormaPago
     {
-        private int Id {  get; set; }
-        private string Nombre { get; set; }
+        public int Id {  get; set; }
+        public string Nombre { get; set; }
 
         public FormaPago(int id, string nombre)
         {

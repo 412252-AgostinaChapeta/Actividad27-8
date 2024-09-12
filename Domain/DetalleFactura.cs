@@ -9,9 +9,9 @@ namespace Practica01.Domain
 {
     public class DetalleFactura
     {
-        private int Id { get; set; }
-        private Articulo Articulo {  get; set; }
-        private int Cantidad { get; set; }
+        public int Id { get; set; }
+        public Articulo Articulo {  get; set; }
+        public int Cantidad { get; set; }
 
 
         public DetalleFactura(int id, Articulo articulo, int cant)

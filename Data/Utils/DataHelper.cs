@@ -78,6 +78,9 @@ namespace Practica01.Data
             return rows;
         }
 
-
+        public SqlConnection GetConnection()
+        {
+            return _connection;
+        }
     }
 }

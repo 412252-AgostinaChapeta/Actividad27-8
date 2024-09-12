@@ -12,3 +12,14 @@ C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\o
 C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.pdb
 C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.genruntimeconfig.cache
 C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\ref\Practica01.dll
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.csproj.AssemblyReference.cache
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.Properties.Resources.resources
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.csproj.GenerateResource.cache
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.sourcelink.json
+C:\Users\agosc\OneDrive\Escritorio\2doCuatri\ActividadesEntregables\Practica01\obj\Debug\net8.0\Practica01.csproj.Up2Date

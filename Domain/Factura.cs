@@ -9,11 +9,11 @@ namespace Practica01.Domain
 {
     public class Factura
     {
-        private int NroFactura { get; set; }
-        private DateTime Fecha { get; set; }
-        private string Cliente { get; set; }
-        private FormaPago FormaPago { get; set; }
-        private List<DetalleFactura> DetalleFacturas { get; set; }
+        public int NroFactura { get; set; }
+        public DateTime Fecha { get; set; }
+        public string Cliente { get; set; }
+        public FormaPago FormaPago { get; set; }
+        public List<DetalleFactura> DetalleFacturas { get; set; }
 
         public Factura(int nro, string cliente, FormaPago fp, List<DetalleFactura> lstDF)
         {
@@ -38,6 +38,12 @@ namespace Practica01.Domain
                     "\n Forma Pago  : " + FormaPago.ToString() +
                     "\n Detalles : " + detalles +
                     "\n Cliente: " + Cliente;
+        }
+
+        public List<DetalleFactura> GetDetails()
+        {
+            return DetalleFacturas;
+            
         }
     }
 }

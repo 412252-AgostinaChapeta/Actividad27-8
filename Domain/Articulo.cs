@@ -8,9 +8,9 @@ namespace Practica01.Domain
 {
     public class Articulo
     {
-        private int Id { get; set; }
-        private string Nombre {  get; set; }
-        private int PrecioUnitario {  get; set; }
+        public int Id { get; set; }
+        public string Nombre {  get; set; }
+        public int PrecioUnitario {  get; set; }
 
         public Articulo(int id, string nombre, int pre)
         {
